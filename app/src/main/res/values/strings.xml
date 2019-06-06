@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="edittext_uri">http://nitandhra.ac.in</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Vijayawada</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">Hello This is Star Lord.</string>
+    <string name="button_share">Share This Text</string>
+</resources>
